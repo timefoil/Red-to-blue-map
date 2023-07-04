@@ -1,5 +1,4 @@
 # Red-to-blue-map
-A light app that converts the asset studio red png norm maps into a blue/pink normal map
+An application designed to convert asset studio red PNG norm maps into blue/pink normal maps.
 
-Simply run the app, select "browse files" then select the normal maps and then open. Your files will now be fixed and replaced.
-That's all it is. enjoy <3
+To utilize the application, execute the program and proceed to "browse files." Next, select the desired normal maps and initiate the open function. This will result in the files being rectified and replaced accordingly.
