@@ -9,7 +9,7 @@ To utilize the application, execute the program and proceed to "browse files." N
 
 ![Step 2](https://github.com/timefoil/Red-to-blue-map/assets/11472988/978c8c8b-45ff-4c97-b4e5-417eec64f409)
 
-BOOM! Result
+# BOOM! Result
 
 ![Step 3](https://github.com/timefoil/Red-to-blue-map/assets/11472988/fb45ef1e-50d3-4dfb-a269-5df0321784a2)
 
